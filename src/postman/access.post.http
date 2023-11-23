@@ -1,0 +1,4 @@
+GET http://localhost:5595
+
+Content-Type: application/json
+x-api-key:a15fe6ad7d2260ab4cf68be592f50b368545452be450a8118e68090338e738c504b7b8578f33c907164201b313b93bc19d34065a57956dec8aac2dc1e0927c7b
